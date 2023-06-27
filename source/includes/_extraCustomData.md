@@ -76,10 +76,11 @@ OriginalAmount| *String* | Indica el importe original de la reserva.
 Agency | *String* | Indica el código de la agencia enviado por el canal en la reserva
 AgencyReference | *String* | Indica el localizador de reserva de la agencia enviado por el canal en la reserva
 Flight_Arrival | *String* | Indica la información recibida en la reserva sobre el vuelo de llegada. Tiene un formato específico y es: IdHabitación@NumeroVuelo#DiayHoraLlegada (dd/MM/yyyy HH:mm)
-Flight_Departure| *String* | Indica la información recibida en la reserva sobre el vuelo de salida. Tiene un formato específico y es: IdHabitación@NumeroVuelo#DiayHoraLlegada (dd/MM/yyyy HH:mm)
+Flight_Departure| *String* | Indica la información recibida en la reserva sobre el vuelo de salida. Tiene un formato específico y es: IdHabitación@NumeroVuelo#DiayHoraLlegada (dd/MM/yyyy HH:mm) 
 CostDate| *String* | Indica la fecha en que se realizó la valoración de los costes de la reserva (dd/MM/yyyy)
 CreationSystem| *String* | Indica el sistema de creacion de la reserva
+Loyalty| *String* | Si viene informado, indica que la reserva es de tipo GENIUS (para las reservas de Booking.com)
 
 <aside class="notice">
-<sup>1</sup>&nbsp;&nbsp;&nbsp;Los tipos de cliente actuales son: M (Mayorista) / A (Alojamiento) / C (Channel Manager) / O (Operador) / G (Agencia de viajes)
+<sup>2</sup>&nbsp;&nbsp;&nbsp;Los tipos de cliente actuales son: *M* (Mayorista) / *A* (Alojamiento) / *C* (Channel Manager) / *O* (Operador) / *G* (Agencia de viajes)
 </aside>
