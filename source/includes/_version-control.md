@@ -33,3 +33,4 @@ Fecha | Autor | Versión | Cambios realizados
 11/07/2023 | Rafel Mestre | 1.1.25 | Se permite la recuperación de reservas por localizador externo (clientReference).
 21/07/2023 | Rafel Mestre | 1.1.26 | Se cambia el tipo del campo BookingRoomId de Integer a String
 24/07/2023 | Rafel Mestre | 1.1.27 | Se añade el campo 'address' en los datos del cliente final de reserva (endCustomer).
+24/01/2024 | Rafel Mestre | 1.1.28 | Se cambia el tipo del campo serviceId del nodo commission, de Integer a String.
