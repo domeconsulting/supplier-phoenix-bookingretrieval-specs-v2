@@ -36,3 +36,4 @@ Fecha | Autor | Versión | Cambios realizados
 24/01/2024 | Rafel Mestre | 1.1.28 | Se cambia el tipo del campo serviceId del nodo commission, de Integer a String.
 07/03/2024 | Rafel Mestre | 1.1.29 | Se añade el elemento extraCustomData a nivel de habitación (BookingRoom).
 15/05/2024 | Rafel Mestre | 1.1.30 | Se añade el elemento language (idioma) a nivel de cliente final (endCustomer).
+20/08/2024 | Rafel Mestre | 1.1.31 | Nuevo mensaje de reventa de reservas (BookingResaleMessage)
