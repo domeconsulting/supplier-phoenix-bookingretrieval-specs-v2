@@ -38,3 +38,4 @@ Fecha | Autor | Versión | Cambios realizados
 15/05/2024 | Rafel Mestre | 1.1.30 | Se añade el elemento language (idioma) a nivel de cliente final (endCustomer).
 20/08/2024 | Rafel Mestre | 1.1.31 | Nuevo mensaje de reventa de reservas (BookingResaleMessage)
 20/08/2024 | Rafel Mestre | 1.1.32 | Nuevo mensaje de cancelación de reservas (BookingCancelMessage)
+11/12/2024 | Rafel Mestre | 1.1.33 | Envío de las etiquetas asignadas a la persona de contacto de la reserva
