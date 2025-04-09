@@ -39,3 +39,4 @@ Fecha | Autor | Versión | Cambios realizados
 20/08/2024 | Rafel Mestre | 1.1.31 | Nuevo mensaje de reventa de reservas (BookingResaleMessage)
 20/08/2024 | Rafel Mestre | 1.1.32 | Nuevo mensaje de cancelación de reservas (BookingCancelMessage)
 11/12/2024 | Rafel Mestre | 1.1.33 | Envío de las etiquetas asignadas a la persona de contacto de la reserva
+09/04/2025 | Rafel Mestre | 1.1.34 | Actualización de ejemplos de reserva (BookingRetrievalResponse).
